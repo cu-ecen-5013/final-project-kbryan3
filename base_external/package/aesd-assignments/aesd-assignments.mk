@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = be48d9c8462ce2e3dcd8e97d8176856203e7a17d
+AESD_ASSIGNMENTS_VERSION = 044f59446d72b2c16edfc11e63792d2b57fb036b
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-5013/assignment-3-manual-kernel-and-root-filesystem-build-kbryan3.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
