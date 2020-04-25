@@ -9,7 +9,7 @@
 AESD_ASSIGNMENTS_VERSION = c813f11b9b970a8dfa9deb59e8292841eccf9891
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-5013/assignment-3-manual-kernel-and-root-filesystem-build-kbryan3.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
-#AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = ~/assignment-1-bash-scripting-basics-kbryan3
+AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = ~/assignment-1-bash-scripting-basics-kbryan3
 
 
 define AESD_ASSIGNMENTS_BUILD_CMDS
